@@ -1,0 +1,33 @@
+.body-contacto{
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    form{
+        padding: 40px;
+        background-color: white;
+        box-sizing: border-box;
+        border-radius: 5px;
+        box-shadow: 0 0 5px 5px;
+        .user{
+            margin: 5px;
+        }
+        .email{
+            margin: 5px;
+        }
+        .mensaje{
+            margin: 5px;
+            padding-bottom: 20px;
+        }
+        .enviar{
+            margin: 5px;
+            padding: 5px;
+        }
+        a{
+            text-align: center;
+            padding: 5px;
+        }
+
+    }
+}
