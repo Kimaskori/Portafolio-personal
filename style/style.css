@@ -171,14 +171,14 @@ li {
 /* Ajuste para pantallas chicas (celulares) */
 @media (max-width: 576px) {
   .h1-estudios {
-    font-size: 1.5rem;
+    font-size: 20px;
   }
   .p-estudios {
-    font-size: 0.9rem;
-    line-height: 1.4;
+    font-size: 20px;
+    line-height: 1.1;
   }
   .a-text {
-    font-size: 0.9rem;
+    font-size: 20px;
   }
 }
 
